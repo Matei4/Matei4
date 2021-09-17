@@ -6,7 +6,7 @@ public class HomeWorkApp
         printThreeWords();
         checkSumSign( 6, -7 );
         printColor(10);
-        compareNumbers(6,10);
+        compareNumbers(6,-7);
     }
 
     public static final String ANSI_RESET = "\u001B[0m";
